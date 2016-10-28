@@ -1,0 +1,7 @@
+cov_check has experiments and tasks pre-programmed in for FIGS, AHABII, DNS, TAOS, ABD, and CEDAR
+to support tasks Faces (block and affect), EmoReg, and Cards.
+
+covcheck_free does not have any preset expectation about directory hierarchy, so the user can
+simply select multiple paths to the mask.img files in the single subject analysis directory.
+
+-Vanessa 2/25/2011
